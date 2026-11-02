@@ -1,0 +1,11 @@
+{
+  "id": "discord-beta-community-v1",
+  "enabled": true,
+  "size": "lg",
+  "badge": "Comunidad Oficial",
+  "title": "¡Únete a la comunidad oficial de Discord!",
+  "message": "Abrimos el espacio exclusivo para Beta Testers de Noveleare. Comparte tus opiniones, críticas constructivas, propuestas de herramientas y reporta cualquier error directamente con el equipo de desarrollo.",
+  "imageUrl": "https://raw.githubusercontent.com/Oberon2755/noveleare-announcements/main/discord-beta-banner.jpg",
+  "actionText": "Únete a nuestro canal de Discord",
+  "actionUrl": "https://discord.gg/chp8Ch3wg"
+}
