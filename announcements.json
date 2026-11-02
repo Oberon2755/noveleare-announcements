@@ -1,11 +1,33 @@
 {
-  "id": "discord-beta-community-v1",
+  "id": "noveleare-official-suite-v1",
   "enabled": true,
-  "size": "lg",
-  "badge": "Comunidad Oficial",
-  "title": "¡Únete a la comunidad oficial de Discord!",
-  "message": "Abrimos el espacio exclusivo para Beta Testers de Noveleare. Comparte tus opiniones, críticas constructivas, propuestas de herramientas y reporta cualquier error directamente con el equipo de desarrollo.",
-  "imageUrl": "https://raw.githubusercontent.com/Oberon2755/noveleare-announcements/main/discord-beta-banner.jpg",
-  "actionText": "Únete a nuestro canal de Discord",
-  "actionUrl": "https://discord.gg/chp8Ch3wg"
+  "size": "2xl",
+  "autoPlayIntervalSeconds": 7,
+  "announcements": [
+    {
+      "id": "discord-beta-community-v1",
+      "badge": "Comunidad Oficial",
+      "title": "¡Únete a la comunidad oficial de Discord!",
+      "message": "Abrimos el espacio exclusivo para Beta Testers de Noveleare. Comparte tus opiniones, críticas constructivas, propuestas de herramientas y reporta cualquier error directamente con el equipo de desarrollo.",
+      "imageUrl": "https://raw.githubusercontent.com/Oberon2755/noveleare-announcements/main/discord-beta-banner.jpg",
+      "actionText": "Únete a nuestro canal de Discord",
+      "actionUrl": "https://discord.gg/chp8Ch3wg"
+    },
+    {
+      "id": "survey-beta-testers-v1",
+      "badge": "Encuesta & Licencia Pro",
+      "title": "Noveleare quiere saber tus opiniones",
+      "message": "Tu voz forja el futuro de Noveleare. Si tienes unos minutos, contesta esta breve encuesta sobre tu experiencia de uso. Además, ¡puedes solicitar tu activación gratuita de Licencia Pro para Beta Testers!",
+      "imageUrl": "https://raw.githubusercontent.com/Oberon2755/noveleare-announcements/main/noveleare-survey-banner.jpg",
+      "actionText": "Contestar encuesta de opinión",
+      "actionUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe3PGz723zvzBvY-uv8joyDvRUq8_iUujD5JuRQppPVql-vxw/viewform"
+    },
+    {
+      "id": "feature-modo-catarsis-v1",
+      "badge": "Nueva Función",
+      "title": "NUEVO: Modo Catarsis",
+      "message": "Desconéctate de toda distracción y del miedo a tus propios errores. Escribe en un estado puro de trance donde cada pulsación de tecla alimenta la llama creativa sin juicios ni interrupciones.\n\nPruébalo ahora en la barra lateral izquierda → Taller Creativo.",
+      "imageUrl": "https://raw.githubusercontent.com/Oberon2755/noveleare-announcements/main/noveleare-catarsis-banner.jpg"
+    }
+  ]
 }
