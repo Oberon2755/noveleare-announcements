@@ -2,8 +2,17 @@
   "id": "noveleare-official-suite-v1",
   "enabled": true,
   "size": "2xl",
-  "autoPlayIntervalSeconds": 7,
+  "autoPlayIntervalSeconds": 8,
   "announcements": [
+    {
+      "id": "urgent-reinstall-v137",
+      "badge": "⚠️ AVISO URGENTE v1.3.7",
+      "title": "Reinstalación requerida para actualizar a la v1.3.7",
+      "message": "Les pedimos una sincera disculpa por las molestias. Hemos corregido múltiples errores críticos en el sistema de actualizaciones automáticas y en la estabilidad general de Noveleare en la versión 1.3.7.\n\nDebido a que el fallo residía en el actualizador antiguo, es necesario desinstalar tu versión actual de Noveleare y descargar el instalador limpio desde nuestra web oficial de Vercel. (Si ya cuentas con la versión 1.3.7 instalada, no es necesario que realices este proceso).\n\n🛡️ Tus novelas y notas están 100% seguras: Desinstalar la aplicación no borra tus proyectos ni tus datos locales.",
+      "imageUrl": "https://raw.githubusercontent.com/Oberon2755/noveleare-announcements/main/noveleare-v137-urgent-banner.jpg",
+      "actionText": "Descargar v1.3.7 desde la Web Oficial",
+      "actionUrl": "https://noveleare.vercel.app/download"
+    },
     {
       "id": "discord-beta-community-v1",
       "badge": "Comunidad Oficial",
