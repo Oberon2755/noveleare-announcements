@@ -5,6 +5,13 @@
   "autoPlayIntervalSeconds": 8,
   "announcements": [
     {
+      "id": "feature-update-v138",
+      "badge": "Novedad Importante · v1.3.8",
+      "title": "Noveleare v1.3.8: Metas Literarias, Diálogos con IA y Dictado Inteligente",
+      "message": "Ya está disponible la actualización v1.3.8 con nuevas herramientas y mejoras clave para tu escritura:\n\n• Metas Literarias (Pactos y Metas): Define objetivos diarios o por proyecto, establece pactos de escritura y da seguimiento preciso a tu progreso narrativo sin salir de tu manuscrito.\n\n• Diálogos con IA: Un nuevo módulo dedicado para analizar, pulir y enriquecer el ritmo, la naturalidad y la voz propia de cada personaje en tus escenas dialogadas.\n\n• Dictado por IA y Motor Ortográfico RAE: Renovamos a fondo nuestro motor interno de corrección sintáctica y morfológica, e incorporamos el nuevo sistema de dictado impulsado por Inteligencia Artificial. El dictado por IA representa un avance sustancial frente al dictado mecánico tradicional —el cual presenta fallos en este momento—, ofreciendo una transcripción mucho más precisa, fluida y contextualizada para que no eches de menos el motor anterior.",
+      "imageUrl": "https://raw.githubusercontent.com/Oberon2755/noveleare-announcements/main/noveleare-v138-banner.jpg"
+    },
+    {
       "id": "discord-beta-community-v1",
       "badge": "Comunidad Oficial",
       "title": "¡Únete a la comunidad oficial de Discord!",
